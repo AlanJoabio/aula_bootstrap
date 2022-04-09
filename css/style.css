@@ -1,0 +1,74 @@
+body{
+  font: 20px Arial, sans-serif;  
+}
+
+.navbar {
+  background-color: #DF7401
+}
+.oque-html1 {
+  background-color:#FE9A2E
+}
+.oque-html2 {
+  background-color:#FE9A2E
+}
+
+.margin {
+  padding-bottom: 50PX;
+}
+
+.oque-html1 img {
+  border: 5px solid #DF7401
+}
+.oque-html2 img {
+  border: 5px solid #DF7401
+}
+.asua-historia img {
+  border: 5px solid #DF7401
+}
+.tags-elementos img {
+  border: 5px solid #DF7401
+}
+.asua-historia {
+  background-color: #F7BE81
+}
+
+.asua-historia{
+  color: white;
+}
+
+.oque-html1 {
+  color: white;
+}
+.oque-html2 {
+  color: black;
+}
+
+.tags-elementos {
+  color: white;
+}
+
+.tags-elementos {
+  background-color: #FE9A2E
+}
+
+.margin {
+  padding-top: 10px;
+}
+
+.infor-macao {
+  background-color: #DF7401 
+}
+
+.test-ando{
+  background-color: #F7BE81
+}
+
+.bg-footer{
+  background-color: green
+}
+
+.bg-footer{
+  color:white
+}
+
+
