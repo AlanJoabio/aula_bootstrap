@@ -23,6 +23,11 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 <a href="[https://web.dio.me/track/java-developer]">
 <img src="./img/java.png" alt=" - Java Developer" tittle="Java" width="90" height="90">
 </a>
+ 
+<!-- HTML Web Developer -->
+<a href="[https://web.dio.me/track/9fb3f492-ea99-4055-82cb-c364f18706ec]">
+<img src="./img/html5dio.png" alt=" - HTML Web Developer" tittle="HTML" width="90" height="90">
+</a>
 
 <!-- gft-start-4-Java -->
 
@@ -38,11 +43,6 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 <!-- Philips Fullstack Developer -->
 <a href="[https://web.dio.me/track/5c0a81e0-3566-4314-8075-298147b2858d]">
 <img src="https://hermes.digitalinnovation.one/tracks/0168902d-e703-4a51-af7a-eceda69637f1.png" alt=" - Philips Fullstack Developer" tittle="Philips" width="90" height="90">
-</a>
-
-<!-- HTML Web Developer -->
-<a href="[https://web.dio.me/track/9fb3f492-ea99-4055-82cb-c364f18706ec]">
-<img src="./img/html5dio.png" alt=" - HTML Web Developer" tittle="HTML" width="90" height="90">
 </a>
 
 <!-- Órbi Web Games Developer -->
