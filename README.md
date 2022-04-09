@@ -9,7 +9,7 @@
 <!--Banner session-->
 <p>
 <h1 align="center">
-Desafio de Projeto sobre Git/Github da DIO
+Desafio de Projeto da DIO
 </p>
 
 Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira, incluir  as atividades da Digital Innovation One.
@@ -52,4 +52,5 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 <img src="https://hermes.digitalinnovation.one/tracks/5a0ef2bf-8cca-4be7-b506-3945fbb8f1d4.png" alt=" - Órbi Web Games Developer" tittle="Órbi" width="90" height="90">
 </a>
 </p>
+
 
