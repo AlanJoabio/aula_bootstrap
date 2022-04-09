@@ -23,6 +23,7 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 
 <a href="[https://web.dio.me/track/java-developer]">
 <img src="./img/java.png" alt=" - Java Developer" tittle="Java" width="90" height="90">
+ </a>
 
 <!-- gft-start-4-Java -->
 
