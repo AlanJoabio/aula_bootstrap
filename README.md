@@ -43,7 +43,7 @@ Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha ca
 
 <!-- HTML Web Developer -->
 <a href="[https://web.dio.me/track/9fb3f492-ea99-4055-82cb-c364f18706ec]">
-<img src="https://hermes.digitalinnovation.one/tracks/3a10fc52-7df0-4d38-9d9c-e98f1e5f6c9a.png" alt=" - HTML Web Developer" tittle="HTML" width="90" height="90">
+<img src="./img/html5dio.png" alt=" - HTML Web Developer" tittle="HTML" width="90" height="90">
 </a>
 </p>
 
